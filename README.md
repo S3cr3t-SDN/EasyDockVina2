@@ -1,5 +1,5 @@
 # EasyDockVina2
-EasyDockVina: Graphical User Interface for Ligand Optimization and Molecular Docking with AutoDock Vina.
+EasyDockVina: Graphical User Interface for Ligand Optimization and High throughput Virtual Screening with AutoDock Vina.
 
 # Step by Step Tutorial:
 https://www.youtube.com/watch?v=oqKsSJ_uWGs
